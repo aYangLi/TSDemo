@@ -24,3 +24,6 @@ console.log('-----------');
 var t = 10;
 t = 'aYang';
 t = true;
+console.log(t);
+// null
+console.log('-----------');
