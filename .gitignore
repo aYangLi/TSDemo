@@ -1,7 +1,9 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea
+# 忽略 文件夹
+node_modules/
+.idea/
 
-.DS_Store
+# 忽略 文件.DS_store
+.DS_store
 
 
 .vscode
