@@ -1,0 +1,11 @@
+node 之父： Ryan DahI 放弃 node，新出 demo，demo 也是 v8引擎，用go语言编写内核，提供 TS 运行环境；
+TS 是 js 的超集，编程语言， 特点：静态类型和面向对象
+
+TS vs JS
+1、应用程序；
+2、是 js 超集 ts => js；
+3、跨平台（转为 js 的原因）；开源；
+4、始于js，终止js；
+5、重用js，甚至可以引入js流行的库。
+6、TypeScript 提供了 类，接口，模块
+
